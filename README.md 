@@ -1,0 +1,15 @@
+# БЛОГ 5
+- Python 3.6.8
+- bleach==3.1.0
+- Django==2.0.13
+- django-crispy-forms==1.7.0
+- django-markdownify==0.3.0
+- Markdown==3.1.1
+- psycopg2==2.7.7
+- pytz==2019.3
+- six==1.13.0
+- sqlparse==0.3.0
+- webencodings==0.5.1
+
+**Install**
+- pip install requirements.txt
